@@ -15,8 +15,8 @@ DevLine Innovations is a forward-thinking IT solutions company dedicated to tran
 To empower businesses with innovative IT solutions that drive growth and success.
 
 ## Connect with Us
-- 🌐 [Website](http://devline.co.ke)
-- ✉️ [Email Us](mailto:info@devlineinnovations.com)
+- 🌐 [Website](http://devlineinnovations.co.ke)
+- ✉️ [Email Us](mailto:info@devlineinnovations.co.ke)
 - 📱 [Social Media](#)
 
 ## Collaboration
